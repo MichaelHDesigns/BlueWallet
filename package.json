@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlueWallet/BlueWallet.git"
+    "url": "https://github.com/MichaelHDesigns/BlueWallet.git"
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",
@@ -117,7 +117,7 @@
     "bip32": "3.0.1",
     "bip38": "github:BlueWallet/bip38",
     "bip39": "3.0.4",
-    "bitcoinjs-lib": "6.0.2",
+    "bitcoinjs-lib": "https://github.com/HTHcoin/web.git",
     "bitcoinjs-message": "2.2.0",
     "bolt11": "1.3.4",
     "buffer": "6.0.3",
